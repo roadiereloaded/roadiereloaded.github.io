@@ -33,7 +33,8 @@ _I think I will go for the 441 version together with the 148 refactoring - thats
 <sub>time for another seo boost</sub>
 
 <pre>
-Mole Electric halcon DMAT Mutation Arellano-Felix Ermes SLIP UMTS David John Oates e-cash anarchy USCODE China 64 Vauxhall Cross
+Mole Electric halcon DMAT Mutation Arellano-Felix Ermes SLIP UMTS 
+David John Oates e-cash anarchy USCODE China 64 Vauxhall Cross
 </pre>
 
 <hr />

@@ -38,3 +38,11 @@ David John Oates e-cash anarchy USCODE China 64 Vauxhall Cross
 </pre>
 
 <hr />
+
+I carried on with the old Skoglund Tut and so far it works. _ActiveRecord::Base_ seems to be <strong>ApplicationRecord</strong> now which is fine. <h2>no biggie</h2>
+
+Then I found that I have a nice sql mode in emacsaqua so that is cool. [Setup here](https://truongtx.me/2014/08/23/setup-emacs-as-an-sql-database-client)
+
+<hr />
+
+Right now I am looking at [this nice railsdev setup howto](https://lorefnon.me/2014/02/02/configuring-emacs-for-rails.html)<br /> _... that is a proper github page btw, I will have to do this here too some time_  alrighty. thats it, stay tuned ...

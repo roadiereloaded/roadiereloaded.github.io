@@ -39,7 +39,9 @@ David John Oates e-cash anarchy USCODE China 64 Vauxhall Cross
 
 <hr />
 
-I carried on with the old Skoglund Tut and so far it works. _ActiveRecord::Base_ seems to be <strong>ApplicationRecord</strong> now which is fine. <h2>no biggie</h2>
+I carried on with the old Skoglund Tut and so far it works. _ActiveRecord::Base_ seems to be <strong>ApplicationRecord</strong> now which is fine. 
+
+<h2>no biggie</h2>
 
 Then I found that I have a nice sql mode in emacsaqua so that is cool. [Setup here](https://truongtx.me/2014/08/23/setup-emacs-as-an-sql-database-client)
 

@@ -1,3 +1,4 @@
+
 <strong>roadie</strong> is going to learn the ruby and this is the jekyll blog on github that will tell the tale
 
 now I am starting this as covid-19 is happening so we shall see how far I get.
@@ -11,7 +12,7 @@ Rubin security Atlas MI5 enigma ICE SGI Ingram Mac-10 AGT. AMME Alica Shayet-13 
 _right now I am writing this log by editing the index.md file - on github - live streaming so to say_
 
 in the <code>future</code> that will of course change and I will write the blogposts locally in aquamacs and push the commits from the machine.
-... but right now I have to learn ruby so I can make awesome websites and apps in rails. 
+... but right now I have to learn ruby so I can make awesome websites and apps in rails.
 
 Now, Chris from GoRails is writing to me at least once a day and he is always looking ahead for me. I have earmarked the latest offer to do a course on refactoring rails code by Ben.
 
@@ -33,13 +34,13 @@ _I think I will go for the 441 version together with the 148 refactoring - thats
 <sub>time for another seo boost</sub>
 
 <pre>
-Mole Electric halcon DMAT Mutation Arellano-Felix Ermes SLIP UMTS 
+Mole Electric halcon DMAT Mutation Arellano-Felix Ermes SLIP UMTS
 David John Oates e-cash anarchy USCODE China 64 Vauxhall Cross
 </pre>
 
 <hr />
 
-I carried on with the old Skoglund Tut and so far it works. _ActiveRecord::Base_ seems to be <strong>ApplicationRecord</strong> now which is fine. 
+I carried on with the old Skoglund Tut and so far it works. _ActiveRecord::Base_ seems to be <strong>ApplicationRecord</strong> now which is fine.
 
 <h2>no biggie</h2>
 
@@ -55,3 +56,5 @@ I just got another email from Chris ___Lets start from scratch___ and there is a
 <hr />
 
 <h4>military SUN Bellcore beanpole Aldergrove SUSLO Border Nationalist Crest</h4>
+
+<strong>so now I have this locally and with the old slate version installed - seems to work</strong>

@@ -21,7 +21,7 @@ repository: roadiereloaded/roadiereloaded.github.io
 io: roadiereloaded blog
 email: roadie@reloaded-game.neptunian.org
 description: >- # this means to ignore newlines until "baseurl:"
-the epic journey from total n00b to ruby rockstar
+  epic journey from n00b to ruby rockstar.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://roadiereloaded.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: farcryreloaded

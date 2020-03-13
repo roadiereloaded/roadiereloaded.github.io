@@ -4,7 +4,7 @@ title: "its me again"
 date: "2020-03-13 20:01:38 +0100"
 categories: roadie log
 ---
-<strong>roadie log</strong> \# <sub>  </sub>
+<strong>roadie log</strong> \# <sub> kbd macroposting </sub>
 
 
 

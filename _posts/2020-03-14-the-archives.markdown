@@ -14,7 +14,7 @@ found a post about where jekyll came from:<br /> [blogging like a hacker ](https
 _nice program_ so this is 11+ years ago and I don't see anything that came along and did it better so far.
 in the article is this: "coming from a graphic design background means I’ll always be tweaking the site’s appearance and layout". this 'always' is the thing. Constantly something new or changed, improved and whatnot.
 
-jekyll it is then - hang in there and here are some more hashtags to help this blog go viral:
+jekyll it is then - hang in there and here are some more thrashtags to help this blog go viral:
 
 <code>
 Macintosh Firewalls CBP Pretoria Nerve agent RAID FBI

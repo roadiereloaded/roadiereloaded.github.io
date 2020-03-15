@@ -4,12 +4,6 @@ title: "whats in a site"
 date: "2020-03-15 11:35:53 +0100"
 categories: roadie log
 ---
-<nav>
-  <a href="/">Home</a>
-  <a href="/about/">About</a>
-  <a href="/blog/">Blog</a>
-</nav>
-
 <strong>roadie log</strong> \# <sub> bare essentials </sub>
 
 I had a sober sip of coffee and a dry cookie and now, in my belgrade appartment I am trying to figure out what should be in a website for the individual normalsterblichen.

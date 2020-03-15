@@ -3,11 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-<nav>
-  <a href="/">Home</a>
-  <a href="/about/"><strong>About</strong></a>
-  <a href="/blog/">Blog</a>
-</nav>
 this is the roadie learning the ruby blog
 and herein all that happens along the way shall be recorded.
 

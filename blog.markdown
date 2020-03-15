@@ -3,11 +3,6 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-<nav>
-  <a href="/">Home</a>
-  <a href="/about/">About</a>
-  <a href="/blog/"><strong>Blog</strong></a>
-</nav>
 <h1>Latest Posts</h1>
 
 <ul>

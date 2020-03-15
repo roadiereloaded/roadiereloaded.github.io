@@ -4,13 +4,6 @@ title: "second post here"
 date: "2020-03-12 19:55:53 +0100"
 categories: roadie log
 ---
-
-<nav>
-  <a href="/">Home</a>
-  <a href="/about/">About</a>
-  <a href="/blog/">Blog</a>
-</nav>
-
 <strong>roadie log</strong> \# <sub> another post </sub>
 
 I really like Kevin Skoglunds way of teaching. very cool. But the course I have is for <strong>Rails 4</strong> - so a little _outdated_

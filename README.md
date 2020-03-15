@@ -8,7 +8,7 @@ modding crysis 1 - [FarCryreloaded](https://www.moddb.com/mods/farcry-reloaded)
 ![reloaded](/assets/images/reloaded.jpg)
 
 
-this is a serious page and nobody is allowed to laugh!
+confidence is the feeling I have before I understand the situation
 
 ***peace out***
 

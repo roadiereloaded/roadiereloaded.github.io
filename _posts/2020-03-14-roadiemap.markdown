@@ -4,6 +4,13 @@ title: "roadiemap"
 date: "2020-03-14 16:36:26 +0100"
 categories: roadie log
 ---
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/blog/">Blog</a>
+</nav>
+
 <strong>roadie log</strong> \# <sub> ... no cookie, hope that's ok </sub>
 
 its kind of setup now, this jekyll blog of mine hosted on github pages. I have a kbd macro for writing posts on the machine and then push the master and the site gets updated. ... something like that, very slick.

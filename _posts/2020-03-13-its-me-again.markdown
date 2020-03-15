@@ -4,6 +4,13 @@ title: "its me again"
 date: "2020-03-13 20:01:38 +0100"
 categories: roadie log
 ---
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/blog/">Blog</a>
+</nav>
+
 <strong>roadie log</strong> \# <sub> kbd macroposting </sub>
 
 

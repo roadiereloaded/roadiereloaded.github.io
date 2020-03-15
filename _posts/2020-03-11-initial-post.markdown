@@ -4,6 +4,13 @@ title: "initial post"
 date: "2020-03-11 19:52:04 +0100"
 categories: roadie log
 ---
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/blog/">Blog</a>
+</nav>
+
 <strong>roadie log</strong> \# <sub> ... startup </sub>
 
 _right now I am writing this log by editing the index.md file - on github - live streaming so to say_

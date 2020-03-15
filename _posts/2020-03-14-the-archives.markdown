@@ -4,6 +4,13 @@ title: "the archives"
 date: "2020-03-14 21:02:40 +0100"
 categories: roadie log
 ---
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/blog/">Blog</a>
+</nav>
+
 <strong>roadie log</strong> \# <sub> a clear mind </sub>
 
 found a post about where jekyll came from:<br /> [blogging like a hacker ](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)

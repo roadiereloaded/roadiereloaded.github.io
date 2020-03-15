@@ -1,0 +1,22 @@
+---
+layout: default
+title: "!minipost"
+date: "2020-03-15 12:04:13 +0100"
+categories: roadie log
+---
+
+<nav>
+<a href="/">Home</a>
+<a href="/about/">About</a>
+<a href="/blog/">Blog</a>
+</nav>
+
+<strong>roadie log</strong> \# <sub> nothing </sub>
+
+I put the nav into the posttemplate so this is just to check if it works.
+and it does so I could just not post this but I will post it anyways because nobody is reading this which could be a reason not to post it? , no wait.
+
+
+<code>
+Mantis Janet Reno TSA Forte Secret Service FXR
+</code>

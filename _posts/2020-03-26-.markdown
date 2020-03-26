@@ -1,0 +1,21 @@
+---
+layout: default
+title: "!"
+date: "2020-03-26 21:37:40 +0100"
+categories: roadie log
+---
+
+<nav>
+<a href="/">Home</a>
+<a href="/about/">About</a>
+<a href="/blog/">Blog</a>
+</nav>
+
+<strong>roadie log</strong> \# <sub>  </sub>
+
+
+
+
+<code>
+Ft. Knox Peking MI6 JAVA Internet SLI
+</code>

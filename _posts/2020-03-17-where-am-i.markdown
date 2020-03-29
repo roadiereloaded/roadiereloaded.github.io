@@ -5,12 +5,6 @@ date: "2020-03-17 18:03:41 +0100"
 categories: roadie log
 ---
 
-<nav>
-<a href="/">Home</a>
-<a href="/about/">About</a>
-<a href="/blog/">Blog</a>
-</nav>
-
 <strong>roadie log</strong> \# <sub> TIL </sub>
 
 it seems that github is not only a blogging platform, they also host code repositories of programmers (git repos - hence the name...). Now this is a huge amount of code that is stored here along with all the blogposts and I just learned that Bill Gates bought all that code for 7plusBillion dollars last year or even earlier.

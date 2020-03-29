@@ -5,12 +5,6 @@ date: "2020-03-26 21:38:43 +0100"
 categories: roadie log
 ---
 
-<nav>
-<a href="/">Home</a>
-<a href="/about/">About</a>
-<a href="/blog/">Blog</a>
-</nav>
-
 <strong>roadie log</strong> \# <sub> pick it up </sub>
 
 so I have gone and watched the alyx playthroughs on youtube. first time I see a VR game. I pointed at the screen a couple of times and told my wife "look at this, they are writing history here". now I know its not the first time, but it is a thing for sure.

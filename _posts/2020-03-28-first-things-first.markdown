@@ -5,12 +5,6 @@ date: "2020-03-28 18:09:00 +0100"
 categories: roadie log
 ---
 
-<nav>
-<a href="/">Home</a>
-<a href="/about/">About</a>
-<a href="/blog/">Blog</a>
-</nav>
-
 <strong>roadie log</strong> \# <sub>ff:a</sub>
 
 I have to learn css before I can learn the ruby.
